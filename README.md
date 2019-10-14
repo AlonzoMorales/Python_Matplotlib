@@ -14,4 +14,4 @@ __Produce the following three pie charts:__
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
 
-![bubbleplot](../Images/BubblePlotRideSharing.PNG)
+![bubbleplot](Python_Matplotlib/Images/BubblePlotRideSharing.PNG)
