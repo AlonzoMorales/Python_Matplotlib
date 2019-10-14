@@ -14,7 +14,7 @@ __Produce the following three pie charts:__
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
 
-![bubbleplot]Images/BubblePlotRideSharing.png)
+![bubbleplot](Images/BubblePlotRideSharing.png)
 
 ![fares](Images/PieChartTotalFaresbyCityType.png)
 
