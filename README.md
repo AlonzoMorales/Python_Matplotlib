@@ -1,7 +1,8 @@
 # Python_Matplotlib
 
 ### Objectives
-Combine 2 CSV datasets into 1 data frame and analyze the data to create visualizations
+Combine 2 CSV datasets into 1 data frame and analyze the data to create visualizations.
+CSV files contain information from ride-sharing company, including details like city, driver count, individual fares, and city type
 
 __Build a Bubble Plot that showcases the relationship between four key variables:__
 * Average Fare ($) Per City
